@@ -1,0 +1,16 @@
+[
+{
+  "modid": "scalatest",
+  "name": "Scala Modding Test",
+  "description": "First scala mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Trapcodien"],
+  "credits": "The Forge and FML guys",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
