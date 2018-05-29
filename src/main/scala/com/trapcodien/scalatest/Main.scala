@@ -41,7 +41,7 @@ class CommonProxy {
 }
 
 
-@Mod(modid = MyMod.MODID, version = MyMod.VERSION, modLanguage = "scala")
+@Mod(modid = MyMod.MODID, version = MyMod.VERSION, modLanguage = "scala", useMetadata = true)
 @Mod.EventBusSubscriber(modid = MyMod.MODID)
 object MyMod {
   final val MODID = "scalatest"
